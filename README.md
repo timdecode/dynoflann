@@ -1,8 +1,4 @@
-![nanoflann](https://raw.githubusercontent.com/jlblancoc/nanoflann/master/doc/logo.png)
-
 # nanoflann
-[![Build Status](https://travis-ci.org/jlblancoc/nanoflann.svg?branch=master)](https://travis-ci.org/jlblancoc/nanoflann)
-
 
 ## 1. About 
 
