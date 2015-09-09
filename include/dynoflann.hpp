@@ -30,8 +30,8 @@
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *************************************************************************/
 
-#ifndef  NANOFLANN_HPP_
-#define  NANOFLANN_HPP_
+#ifndef  DYNOFLANN_HPP_
+#define  DYNOFLANN_HPP_
 
 #include <vector>
 #include <cassert>
@@ -1431,4 +1431,4 @@ namespace dynoflann
     } // end of NS
     
     
-#endif /* NANOFLANN_HPP_ */
+#endif /* DYNOFLANN_HPP_ */
