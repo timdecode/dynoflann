@@ -838,7 +838,7 @@ namespace dynoflann
                 m_size++;
                 m_size_at_index_build++;
                 
-                // TODO Update the bounding box
+                updateBoundingBox(root_bbox, index);
                 
                 addIndexToTree(root_node, index);
             }
